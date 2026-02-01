@@ -1,9 +1,5 @@
-<div align="center">
-
-# Machine Learning Algorithms
-### Demystifying the Math Behind ML
-
-</div>
+<h1 align="center">Machine Learning Algorithms</h1>
+<h3 align="center">Demystifying the Math Behind ML</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success" alt="Status"/>
