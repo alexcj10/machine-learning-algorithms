@@ -1,5 +1,5 @@
 # Machine Learning Algorithms
-### Demystifying the Math Behind ML ✨
+### Demystifying the Math Behind ML 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success" alt="Status"/>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Why This Repository?
+## Why This Repository?
 
 Machine learning textbooks often overwhelm beginners with **heavy mathematical notation** and complex derivations. This creates an unnecessary barrier between you and understanding how ML algorithms actually work.
 
@@ -22,7 +22,7 @@ Here you'll find **handwritten notes** and **curated resources** that break down
 
 ---
 
-## 💡 What Makes This Different?
+## What Makes This Different?
 
 | Traditional Resources | This Repository |
 |----------------------|-----------------|
@@ -34,22 +34,22 @@ Here you'll find **handwritten notes** and **curated resources** that break down
 
 ### Key Features
 
-✅ **Handwritten Notes** — Personal, clear explanations that feel like learning from a friend  
-✅ **Visual Diagrams** — See the geometry and intuition behind the math  
-✅ **Complete Derivations** — No steps skipped, no "clearly" or "obviously"  
-✅ **Intuition First** — Understand *why* before diving into *what*  
-✅ **Complementary Resource** — Designed to enhance your existing learning materials  
-✅ **Community-Driven** — Built by learners, for learners
+**Handwritten Notes** — Personal, clear explanations that feel like learning from a friend  
+**Visual Diagrams** — See the geometry and intuition behind the math  
+**Complete Derivations** — No steps skipped, no "clearly" or "obviously"  
+**Intuition First** — Understand *why* before diving into *what*  
+**Complementary Resource** — Designed to enhance your existing learning materials  
+**Community-Driven** — Built by learners, for learners
 
 ---
 
-## 🚀 Who Is This For?
+## Who Is This For?
 
 **Perfect for:**
-- 🎓 Students supplementing coursework with clearer mathematical explanations
-- 💻 Self-learners working through ML textbooks or online courses
-- 🔄 Career switchers from non-mathematical backgrounds
-- 🧠 Anyone who wants to understand ML algorithms at a fundamental level
+- Students supplementing coursework with clearer mathematical explanations
+- Self-learners working through ML textbooks or online courses
+- Career switchers from non-mathematical backgrounds
+- Anyone who wants to understand ML algorithms at a fundamental level
 
 **You'll benefit if:**
 - You find traditional ML textbooks mathematically overwhelming
@@ -59,7 +59,7 @@ Here you'll find **handwritten notes** and **curated resources** that break down
 
 ---
 
-## 📚 What You'll Learn
+## What You'll Learn
 
 ### Core Machine Learning
 
@@ -81,7 +81,7 @@ Neural Networks • Backpropagation • Convolutional Networks • Activation Fu
 
 ---
 
-## 🎓 How to Use This Repository
+## How to Use This Repository
 
 ### Getting Started
 
@@ -101,44 +101,44 @@ Jump to specific algorithms → Fill knowledge gaps → Deepen mathematical unde
 
 ### Pro Tips
 
-💡 **Write It Out** — Don't just read; actively work through derivations yourself  
-💡 **Visualize** — Draw diagrams and graphs to build geometric intuition  
-💡 **Take Your Time** — Deep understanding beats rushing through material  
-💡 **Connect Concepts** — Always relate new knowledge to what you already know
+**Write It Out** — Don't just read; actively work through derivations yourself  
+**Visualize** — Draw diagrams and graphs to build geometric intuition  
+**Take Your Time** — Deep understanding beats rushing through material  
+**Connect Concepts** — Always relate new knowledge to what you already know
 
 ---
 
-## 💬 Need Help? I'm Here 24/7!
+## Need Help? I'm Here 24/7!
 
 **Stuck on a concept? Don't understand something? Have questions?**
 
-### 👉 Use the [Discussions](../../discussions) tab!
+### Use the [Discussions](../../discussions) tab!
 
 I'm personally available to help you with:
-- ✨ Explaining difficult concepts
-- 🔍 Clarifying mathematical notation
-- 📖 Suggesting learning resources
-- 🤔 Answering your doubts
-- 💪 Providing learning guidance
+- Explaining difficult concepts
+- Clarifying mathematical notation
+- Suggesting learning resources
+- Answering your doubts
+- Providing learning guidance
 
 **No question is too basic. No doubt is too small.**  
 The Discussions section is your space to learn, ask, and grow. I'm committed to helping everyone understand the math behind ML.
 
-> 🎯 **Response Time:** I monitor discussions regularly and aim to respond as quickly as possible. Your learning is my priority!
+> **Response Time:** I monitor discussions regularly and aim to respond as quickly as possible. Your learning is my priority!
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This repository thrives on community contributions!
 
 ### How You Can Help
 
-📝 **Share Your Notes** — Handwritten explanations that helped you understand a concept  
-🎨 **Create Visualizations** — Diagrams, graphs, or illustrations that clarify ideas  
-🔧 **Improve Existing Content** — Corrections, enhancements, or additional examples  
-📚 **Add Resources** — Links to helpful videos, articles, or interactive demos  
-💡 **Suggest Topics** — Request coverage of new algorithms or concepts
+**Share Your Notes** — Handwritten explanations that helped you understand a concept  
+**Create Visualizations** — Diagrams, graphs, or illustrations that clarify ideas  
+**Improve Existing Content** — Corrections, enhancements, or additional examples  
+**Add Resources** — Links to helpful videos, articles, or interactive demos  
+**Suggest Topics** — Request coverage of new algorithms or concepts
 
 ### Contribution Process
 
@@ -154,7 +154,7 @@ This repository thrives on community contributions!
 
 ---
 
-## 📖 Recommended Resources
+## Recommended Resources
 
 These notes work best alongside:
 
@@ -175,26 +175,26 @@ These notes work best alongside:
 
 ---
 
-## ⭐ Show Your Support
+## Show Your Support
 
 If this repository helps your ML journey:
 
-- 🌟 **Star this repo** to help others discover it
-- 🔄 **Share with friends** who are learning ML
-- 💬 **Join discussions** and help fellow learners
-- 🤝 **Contribute** your own insights
+- **Star this repo** to help others discover it
+- **Share with friends** who are learning ML
+- **Join discussions** and help fellow learners
+- **Contribute** your own insights
 
 Your support helps keep this resource growing and improving!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License — free to use, share, and modify.
 
 ---
 
-## 🌟 Final Thoughts
+## Final Thoughts
 
 Learning machine learning math is challenging—but you're not alone.
 
